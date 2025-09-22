@@ -1,0 +1,6 @@
+```yaml
+site_name: repo
+theme: { name: material }
+repo_url: https://github.com/conchiamorrorjxf/repo
+nav:
+  - Home: index.md
