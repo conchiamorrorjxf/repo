@@ -4,3 +4,4 @@
 ## 快速开始
 ```bash
 npx repo
+test
