@@ -1,0 +1,10 @@
+name: Bug report
+description: 报告一个问题
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: 发生了什么？
+      description: 复现步骤 / 期望 / 实际结果 / 截图 / 日志
+    validations: { required: true }
