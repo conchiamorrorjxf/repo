@@ -1,0 +1,11 @@
+{
+  "name": "repo",
+  "version": "0.1.0",
+  "type": "module",
+  "bin": { "repo": "src/index.js" },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node test/basic.test.js"
+  },
+  "license": "MIT"
+}
