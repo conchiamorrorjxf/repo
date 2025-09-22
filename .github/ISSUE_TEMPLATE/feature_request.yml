@@ -1,0 +1,10 @@
+name: Feature request
+description: 提一个新功能
+labels: [enhancement]
+body:
+  - type: textarea
+    id: why
+    attributes:
+      label: 为什么需要？
+      description: 场景、动机与收益
+    validations: { required: true }
